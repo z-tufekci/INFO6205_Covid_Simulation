@@ -1,4 +1,4 @@
-# INFO6205FinalProject_Simulation
+# INFO6205_Covid_Simulation
 
 Virus Transmission Simulation SARS-CoV-2
 
